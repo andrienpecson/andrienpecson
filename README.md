@@ -1,8 +1,8 @@
 <h1 align="center">Andrien Pecson</h1>
 
 <p align="center">
-  <b>Software Engineer</b> · 10+ years shipping production SaaS across retail, fintech & market intelligence<br/>
-  TypeScript · React · Node.js | Serverless AWS · Data Pipelines · AI Integration · Automation
+  <b>Software Engineer</b> · 11 years shipping production software across retail, fintech & market intelligence<br/>
+  TypeScript · React · Node.js | Serverless AWS · Data Pipelines · Automation · Spec-Driven AI Development
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### About Me
 
-Software Engineer with **10+ years shipping production SaaS applications** across retail, fintech, and market intelligence. Expert in **TypeScript, React, and Node.js**, with deep experience designing serverless AWS architectures, data pipelines, and automation systems. Owns products end-to-end, from ambiguous requirements to deployed platforms, and integrates AI tooling into daily engineering workflow.
+Software Engineer with **11 years of experience shipping production software applications** across retail, fintech, and market intelligence. Expert in **TypeScript, React, and Node.js**, with deep experience designing serverless AWS architectures, data pipelines, and automation systems. Takes products from ambiguous requirements to tested, deployed platforms by writing clear technical specs that drive AI-assisted development.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrienpecson&theme=github_dark" alt="Profile details"/>
@@ -62,12 +62,14 @@ Software Engineer with **10+ years shipping production SaaS applications** acros
 
 **AI & Automation**
 <p>
-  <img src="https://img.shields.io/badge/Anthropic_API-D97757?style=flat&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat"/>
-  <img src="https://img.shields.io/badge/RAG-1FA97A?style=flat"/>
+  <img src="https://img.shields.io/badge/Spec--Driven_Development-4A5568?style=flat"/>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Agent_Skills-6E56CF?style=flat"/>
+  <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat"/>
+  <img src="https://img.shields.io/badge/Anthropic_API-D97757?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-1FA97A?style=flat"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apify-FF9012?style=flat&logo=apify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fivetran-2073E8?style=flat"/>
@@ -78,15 +80,23 @@ Software Engineer with **10+ years shipping production SaaS applications** acros
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
   <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=flat"/>
   <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white"/>
   <img src="https://img.shields.io/badge/SNS-FF4F8B?style=flat&logo=amazonsns&logoColor=white"/>
   <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat"/>
+  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=flat"/>
   <img src="https://img.shields.io/badge/Firehose-8C4FFF?style=flat"/>
   <img src="https://img.shields.io/badge/Kinesis-8C4FFF?style=flat"/>
   <img src="https://img.shields.io/badge/IAM-DD344C?style=flat"/>
   <img src="https://img.shields.io/badge/Secrets_Manager-DD344C?style=flat"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CDK-FF9900?style=flat"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Event--Driven_Architecture-4A5568?style=flat"/>
   <img src="https://img.shields.io/badge/Microservices-4A5568?style=flat"/>
+  <img src="https://img.shields.io/badge/KrakenD_API_Gateway-4A5568?style=flat"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/>
@@ -107,10 +117,16 @@ Software Engineer with **10+ years shipping production SaaS applications** acros
 **DevOps & Quality**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Test--Driven_Development-4A5568?style=flat"/>
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
 </p>
@@ -126,7 +142,6 @@ Software Engineer with **10+ years shipping production SaaS applications** acros
 **Practices**
 <p>
   <img src="https://img.shields.io/badge/Agile%2FScrum-009FDA?style=flat&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code_Reviews-4A5568?style=flat"/>
   <img src="https://img.shields.io/badge/Project_Management-0052CC?style=flat&logo=jira&logoColor=white"/>
 </p>
 
@@ -135,6 +150,20 @@ Software Engineer with **10+ years shipping production SaaS applications** acros
 ### Experience Timeline
 
 <table>
+<tr>
+<td valign="top" width="150">
+<b>2026 – Present</b><br/>
+<sub>Australia · Remote</sub>
+</td>
+<td>
+
+**● Senior Backend Developer — Convert Digital** · *Aug 2026 – Present*
+
+- Built and launched a production Shopify gift card app (TypeScript, Node.js) integrated with a third-party gift card provider, covering the full card lifecycle (purchase, balance check, redemption, refund) across multiple storefronts. It runs on a serverless, event-driven AWS stack (Lambda, API Gateway, EventBridge, RDS PostgreSQL, SNS) defined in CDK, with automated CI/CD to staging and production
+- Developed features end-to-end for a B2B integration service connecting an ERP system to Shopify B2B (NestJS, KrakenD, Azure Functions, Service Bus, Terraform)
+
+</td>
+</tr>
 <tr>
 <td valign="top" width="150">
 <b>2019 – 2026</b><br/>
@@ -150,8 +179,8 @@ Software Engineer with **10+ years shipping production SaaS applications** acros
 
 <details><summary><i>More…</i></summary>
 
-- Developed serverless data aggregation functions that collected, normalized, and transformed data from multiple third-party APIs into unified datasets, powering the backend data layer for sales and analytics dashboards
-- Developed and maintained a full-stack analytics platform with React and Next.js that provided sales tracking, competitor intelligence, and product performance insights, helping users identify revenue opportunities
+- Developed serverless data aggregation functions to collect, normalize, and transform data from multiple third-party APIs into unified datasets, powering the backend data layer for sales and analytics dashboards
+- Developed and maintained a full-stack analytics platform using React and Next.js, providing sales tracking, competitive intelligence, and product performance insights to help users identify revenue opportunities
 - Engineered production Shopify apps and custom storefront components (Shopify CLI, React, Remix), from product personalization to purchase-driving UI features, extending client storefronts beyond Shopify's native capabilities
 - Built an internal product management app (Shopify CLI, React) that gave the operations team product customization options beyond Shopify's defaults, eliminating slow, error-prone manual edits
 - Worked cross-functionally with business and operations teams to scope, prioritize, build, and track delivery across multiple projects
@@ -170,7 +199,7 @@ Software Engineer with **10+ years shipping production SaaS applications** acros
 **● Web & Mobile Application Developer — Volenday** · *Jun 2015 – Jul 2019*
 
 - Designed and built a custom React Native point-of-sale app for a multi-branch agricultural supply company, enabling real-time sales processing across all store locations
-- Built the companion admin dashboard for the same POS platform with React and Express, giving head-office staff centralized visibility into sales, inventory, and reporting across all branches
+- Built the companion admin dashboard for the same POS platform using React and Express, providing head office staff with centralized visibility into sales, inventory, and reporting across all branches
 - Architected a client-facing web portal and internal admin dashboard with Express and jQuery for a licensed Philippine lending company, supporting end-to-end loan lifecycle management from origination and disbursement through repayment and collections
 
 <details><summary><i>More…</i></summary>
